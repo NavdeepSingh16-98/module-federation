@@ -7,7 +7,7 @@ module.exports ={
     entry : './src/index.js',
     mode: 'development',
     devServer : {
-        port:3001
+        port:3000
     },
     plugins:[
         new HTMLWebpackPlugin({
